@@ -1,6 +1,6 @@
 # recipe-check-app
 
-> A Vue.js project
+> The web-app for create your own recipe and check it anytime. [Here it is!](https://recipe-check-app.firebaseapp.com/)
 
 ## Build Setup
 
